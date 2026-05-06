@@ -29,7 +29,8 @@ jobs:
       - name: Run supply tracker
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-        run: python supply_tracker.py --months 6
+          MONTHS_INPUT: ${{ github.event.inputs.months }}
+        run: python supply_tracker.py --months ${MONTHS_INPUT:-6}
       - name: Commit updated data files
         run: |
           git config user.name "supply-tracker-bot"
