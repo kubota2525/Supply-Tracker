@@ -1,0 +1,20 @@
+# Secrets — never commit
+.env
+*.json
+!package.json
+service_account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# Output data — comment out if you DO want to commit historical data
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
