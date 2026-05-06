@@ -44,8 +44,6 @@ M3_SERIES = {
         "label": "Farm Machinery and Equipment Manufacturing",
         "metrics": {
             "shipments": "A33AVS",
-            "new_orders": "A33ANO",
-            "unfilled_orders": "A33AUO",
             "inventories": "A33ATI",
         },
     },
