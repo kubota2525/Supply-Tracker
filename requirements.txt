@@ -1,0 +1,7 @@
+# Core dependencies (required)
+requests>=2.31.0
+
+# Optional: only needed if OUTPUT_MODE includes "google_sheets"
+# Uncomment these two lines if you want Google Sheets output.
+# gspread>=6.0.0
+# google-auth>=2.27.0
