@@ -1,6 +1,6 @@
 yaml   name: Monthly Supply Data Pull
 
-   on:
+on:
      schedule:
        - cron: '0 14 18 * *'
      workflow_dispatch:
