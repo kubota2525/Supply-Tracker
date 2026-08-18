@@ -383,3 +383,9 @@ date,category,naics,metric,series_id,value_millions,fetched_at
 2026-05-01,Compact Construction,333120,new_orders,A33CNO,4879.0,2026-07-18T14:50:13+00:00
 2026-05-01,Compact Construction,333120,unfilled_orders,A33CUO,11595.0,2026-07-18T14:50:13+00:00
 2026-05-01,Compact Construction,333120,inventories,A33CTI,10659.0,2026-07-18T14:50:13+00:00
+2026-06-01,Compact Tractors,333111,shipments,A33AVS,2408.0,2026-08-18T14:31:15+00:00
+2026-06-01,Compact Tractors,333111,inventories,A33ATI,5622.0,2026-08-18T14:31:15+00:00
+2026-06-01,Compact Construction,333120,shipments,A33CVS,4504.0,2026-08-18T14:31:15+00:00
+2026-06-01,Compact Construction,333120,new_orders,A33CNO,5059.0,2026-08-18T14:31:15+00:00
+2026-06-01,Compact Construction,333120,unfilled_orders,A33CUO,12284.0,2026-08-18T14:31:15+00:00
+2026-06-01,Compact Construction,333120,inventories,A33CTI,10715.0,2026-08-18T14:31:15+00:00
